@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Rico;Julio;;;
-FN:Julio Rico
+N:;;;;
+FN:Aston Maverick Car Wash & Detailing
 ORG:Aston Maverick Car Wash & Detailing
+X-ABShowAs:COMPANY
 TEL;TYPE=CELL,VOICE:+16302840502
 EMAIL;TYPE=INTERNET:astonmaverick23@gmail.com
 ADR;TYPE=WORK:;;;Roselle;IL;60172;USA
