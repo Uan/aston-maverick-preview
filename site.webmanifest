@@ -3,8 +3,8 @@
  "short_name": "Aston Maverick",
  "start_url": "/aston-maverick-preview/",
  "display": "browser",
- "background_color": "#f5f1ea",
- "theme_color": "#f5f1ea",
+ "background_color": "#f5f2ea",
+ "theme_color": "#0b1730",
  "icons": [
   {
    "src": "/aston-maverick-preview/assets/icons/icon-192.png",
